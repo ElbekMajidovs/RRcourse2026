@@ -1,0 +1,6 @@
+import sys
+print(f"Xello from your Python {sys.version_info.major}.{sys.version_info.minor} inside a containerrr!")
+
+  
+
+
